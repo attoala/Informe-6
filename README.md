@@ -120,7 +120,7 @@ resultados en la tabla 6.1.
 |**3900**|2.94|11.5|0.033|0.033|
 |**4700**|2.54|11.9|0.030|0.030|
 
-calculos
+**Calculos**
 
 </section>
       <div class="container mt-5 mb-5">
