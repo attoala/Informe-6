@@ -124,7 +124,7 @@ calculos
 
 </section>
       <div class="container mt-5 mb-5">
-        <img src="img/0.0.0.JPG"
+        <img src="Anexos/Cálculos.pdf"
           alt="Digrama del circuito"
           height="150"
           style ="float-left ml-4"
