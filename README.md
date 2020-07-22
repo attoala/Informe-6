@@ -194,5 +194,5 @@ Vásquez, J. R. G. (s. f.). TEOREMAS FUNDAMENTALES DE CIRCUITOS ELÉCTRICOS. 251
 
 
 ## **ANEXOS**
-https://github.com/fernandoSando/informe-5/tree/master/Anexos
+https://github.com/attoala/Informe-6/tree/master/Anexos
  
