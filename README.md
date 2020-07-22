@@ -138,7 +138,7 @@ calculos
       <div class="container mt-5 mb-5">
         <img src="img/123.jpg"
           alt="Fuente de voltaje C.D."
-          height="900"
+          height="1000"
           style ="float-left ml-4"
         />           
    </div>
