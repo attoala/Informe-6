@@ -20,7 +20,7 @@ El teorema de máxima transferencia de potencia es importante cuando se tiene qu
 
 <section>
       <div class="container mt-5 mb-5">
-        <img src="img/0000.png"
+        <img src="img/00001.png"
           alt=""
           height="200"
           style ="float-left ml-4"
