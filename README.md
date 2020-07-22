@@ -138,10 +138,14 @@ calculos
  Si cumple el teorema de la Máxima Transferencia de Potencia porque el teorema dice que cuando la recistencia RL es igual a Rs va a tener la máxima transferencia de potencia entonces observando los calculos vemos que mientras la recistencia tiende a ser igual a la resistencia dada tiene una mayor potencia, mientras que cuando se pasa el valor de la resistencia baja el valor de la potencia.
 
 
-6.5.5. ¿Cuál fue la potencia máxima en RL? 0.046 Watts
+**6.5.5. ¿Cuál fue la potencia máxima en RL?** 
+
+0.046 Watts
 
 
-6.5.6. ¿Para qué valor de RL se obtiene la MTP? 1000Ω y de 1500Ω empieza a descender.  
+**6.5.6. ¿Para qué valor de RL se obtiene la MTP?**
+
+1000Ω y de 1500Ω empieza a descender.  
 
 
 
