@@ -5,7 +5,7 @@
 
 ## OBJETIVOS
 
-Comprobar experimentalmente el Teorema DE La máxima Transferencia De Potencia.
+Analizar los datos en una carga eléctrica para obtener la optimización del valor de la carga eléctrica que permita la máxima transferencia depotencia de un circuito a la carga.
 
 **Objetivos específicos:** 
  - Identificar en el circuito las mediciones de voltajes correspondiente
@@ -16,7 +16,7 @@ Comprobar experimentalmente el Teorema DE La máxima Transferencia De Potencia.
        propuesto, demostrando el Teorema DE La máxima Transferencia De Potencia.
 ## MARCO TEÓRICO
 
-“Se aplica a circuitos lineales con una carga que puede ser lineal o no lineal, variantes o invariantes con el tiempo cuyo estado energético sea nulo o no. Permite reemplazar un circuito de análisis complejo por uno equivalente de menos tamaño que facilite el cálculo de los efectos externos (circuito equivalente), puede usar en sistemas de potencia para analizar partes de él y reemplazando en resto del sistema de esta forma.” (Vásquez, s. f.)
+El teorema de máxima transferencia de potencia es importante cuando se tiene que conocer el valore de la carga con la cual la fuente suministra la máxima potenciaPara una fuente de voltaje dada, la potencia máxima se transfiere desde una fuente hasta una carga cuando la resistencia de la carga es igual a la resistencia interna de la fuente.La resistencia de la fuente Rs de un circuito es la resistencia equivalente vista desde la terminal de salida utilizando Thevenin, se puede transferir la máxima potencia posible de la fuente de la carga solocuando RL es igual a Rs.
 
 <section>
       <div class="container mt-5 mb-5">
@@ -29,8 +29,9 @@ Comprobar experimentalmente el Teorema DE La máxima Transferencia De Potencia.
    </section>
   
 
-Para mayor entendimiento de este teorema, se refiere que a cualquier circuito se le puede reducir a solo una fuente con 2 resistores, para un calculo mucho mas fácil, y para lograrlo se debe quitar el elemento a analizar y encontrar un voltaje entre los puntos donde estaba ese elemento y la resistencia equivalente de los demás elementos del circuito, para el calculo de resistencia equivalente las fuentes de tensión se convierten en cortocircuitos y las de corriente en circuitos abiertos. Así con esos 2 valores denominados Resistencia de Thévenin (RTH) y voltaje de Thévenin (VTH) para esa resistencia equivalente conseguida y ese voltaje de los puntos a y b respectivamente. Una vez con esos datos se vuelve a introducir el elemento en cuestión a calcular y re desarrolla el circuito
+La aplicación de este teorema se amplía en basea toda red, por compleja que sea, puedereducirse a una red con una fuente de voltaje yuna resistencia serie, mediante la aplicación delteorema de Thevenin. La máxima transferenciade potencia ocurre entonces cuando la resistencia de carga es igual a la resistencia de Thevenin.
 
+Los sistemas eléctricosse diseñan para llevar la potencia a la carga conla mayor eficiencia, al reducir las pérdidas en laslíneas de potencia. Por ello, el esfuerzo se centraen reducir RTH que representaría la resistencia dela  fuente más la de la línea.Por eso resulta atractiva la idea de usar líneas super conductoras que no ofrezcan resistencia   para transmitir potencia. (Dorf & Svoboda, 2006, pág. 170)
 
 
 ## **DESCRIPCIÓN DE LOS EQUIPOS Y MATERIALES**
@@ -148,11 +149,8 @@ resultados en la tabla 6.1.
 
 ## **CONCLUSIONES**
 
-El teorema de Thévenin se basa en el análisis de los circuitos con el propósito de poder encontrar el voltaje de un circuito abierto, hallando matemáticamente y experimental los valores correspondientes, que consiste, que el valor de las resistencias puede ser reemplazada o sustituida por otra fuente de tensión.
-
-En conclusión, emplear el teorema de Thévenin resulta practico para reducir componentes, aparte de considerar la comprobación de los resultados mediante un simulador y evidenciar que el porcentaje de error es mínimo.
-
-Al acabar la simulación, se concluye que todo circuito lineal activo puede ser reducido por un circuito equivalente serie (Thévenin), confirmando  su utilidad.
+La potencia máxima será desarrollada en la carga cuando la resistencia decarga RL sea iguala la resistenciainterna de la fuente Ri.
+Para obtener la máxima transferencia de potencia debe adaptarse la resistencia interna en las fuentes de voltaje.
 
 ## **RECOMENDACIONES**
 
