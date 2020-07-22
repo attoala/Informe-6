@@ -87,7 +87,7 @@ Arme el circuito que se muestra en la figura 5.1.
 
 </section>
       <div class="container mt-5 mb-5">
-        <img src="img/00000.PNG"
+        <img src="img/0.0.0.JPG"
           alt="Digrama del circuito"
           height="150"
           style ="float-left ml-4"
