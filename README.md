@@ -115,13 +115,12 @@ Calcule las potencia consumida por RL, para cada valor dado y anote los
 resultados en la tabla 6.1.
 
 ***Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1***
-
 | RL(Ω)   |Corriente Medida(mA)|Voltaje Medido(V)|Potencia Calculada Experimentalmente(W)|Potencia Calculada Teóricamente(W)|
 |---------|---------|---------|---------|---------|---------|---------|
-|**220** |10.6|2.32|0.024 |0.025|
-|**470** |8.98|4.22|0.037 |0.037|
-|**680** |7.98|5.43|0.043 |0.043|
-|**820** |7.43|6.09|0.045 |0.045|
+|**220**|10.6|2.32|0.024 |0.025|
+|**470**|8.98|4.22|0.037 |0.037|
+|**680**|7.98|5.43|0.043 |0.043|
+|**820**|7.43|6.09|0.045 |0.045|
 |**1000**|6.82|6.82|0.046 |0.046|
 |**1500**|5.56|8.33|0.046 |0.046|
 |**1800**|5.00|9.00|0.045 |0.045|
