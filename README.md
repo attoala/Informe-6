@@ -138,7 +138,7 @@ resultados en la tabla 6.1.
 
  </section>
       <div class="container mt-5 mb-5">
-        <img src="img/02.jpg"
+        <img src="img/0.0.JPG"
           alt="listado de todos los componentes utilizados para el circuito"
           height="400"
           style ="float-left ml-4"
