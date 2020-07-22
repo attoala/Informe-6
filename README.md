@@ -136,7 +136,7 @@ calculos
 ## **DIAGRAMAS**
 <section>
       <div class="container mt-5 mb-5">
-        <img src="img/01.jpg"
+        <img src="img/123.jpg"
           alt="Fuente de voltaje C.D."
           height="500"
           style ="float-left ml-4"
