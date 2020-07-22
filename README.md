@@ -58,7 +58,7 @@ Los sistemas eléctricosse diseñan para llevar la potencia a la carga conla may
    </div>
    </section>
 
-**Resistores** de 1kΩ, 100Ω, 330Ω, 4.7kΩ y 560Ω. Los utilizaremos para crear el circuito que vamos a medir
+**Resistores** de  220Ω,470Ω, 680Ω, 820Ω, 1kΩ, 1.5kΩ, 1.8kΩ, 2.2kΩ, 3.9kΩ y 4.7kΩ.  Los utilizaremos para crear el circuito que vamos a medir
 </section>
       <div class="container mt-5 mb-5">
         <img src="img/7.PNG"
@@ -163,7 +163,7 @@ Se establecen en función del proyecto y constituyen la base para un funcionamie
 
  </section>
       <div class="container mt-5 mb-5">
-        <img src="img/000.JPG"
+        <img src="img/6.JPG"
           alt="Cronograma de actividades del informe"
           height="400"
           style ="float-left ml-4"
