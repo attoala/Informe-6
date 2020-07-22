@@ -150,6 +150,7 @@ resultados en la tabla 6.1.
 ## **CONCLUSIONES**
 
 La potencia máxima será desarrollada en la carga cuando la resistencia decarga RL sea iguala la resistenciainterna de la fuente Ri.
+
 Para obtener la máxima transferencia de potencia debe adaptarse la resistencia interna en las fuentes de voltaje.
 
 ## **RECOMENDACIONES**
