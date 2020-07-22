@@ -139,6 +139,8 @@ calculos
 
 
 6.5.5. ¿Cuál fue la potencia máxima en RL? 0.046 Watts
+
+
 6.5.6. ¿Para qué valor de RL se obtiene la MTP? 1000Ω y de 1500Ω empieza a descender.  
 
 
